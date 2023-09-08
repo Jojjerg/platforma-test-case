@@ -1,5 +1,4 @@
 import { ColumnData } from "@/@types/ColumnData";
-import React from "react";
 
 const Heading = ({ data }: { data: ColumnData }) => {
   return (

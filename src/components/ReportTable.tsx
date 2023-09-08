@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 
 import Heading from "./Heading";
 import Modal from "./Modal";

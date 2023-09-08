@@ -1,5 +1,3 @@
-import React from "react";
-
 const OptionButton = ({ showHideOption }: { showHideOption: () => void }) => {
   return (
     <button onClick={showHideOption} className="w-[15px] h-[20px] flex flex-col items-center justify-center gap-[2px] outline-none focus:border-none focus:outline-none">
