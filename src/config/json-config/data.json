@@ -1,0 +1,34 @@
+{
+  "name": "Отчёт по водоснабжению",
+  "code": "4534632",
+  "columns": [
+    {
+      "dataField": "date",
+      "caption": "Дата",
+      "dataType": "date",
+      "format": "dd.MM.yyyy",
+      "alignment": "left"
+    },
+    {
+      "dataField": "consumption",
+      "caption": "Потребление (л)",
+      "dataType": "number",
+      "format": "0.00",
+      "alignment": "right"
+    },
+    {
+      "dataField": "user",
+      "caption": "Пользователь",
+      "dataType": "string",
+      "format": "",
+      "alignment": "left"
+    },
+    {
+      "dataField": "city",
+      "caption": "Город",
+      "dataType": "string",
+      "format": "",
+      "alignment": "left"
+    }
+  ]
+}
